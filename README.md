@@ -32,7 +32,7 @@
 
 ---
 
-Created by [@binggandata](https://github.com/binggandata)
+Created by [@binggandata](https://github.com/binggandata) · [小红书](https://xhslink.com/m/4ndptyfq4vu) · [X / Twitter](https://x.com/bggg_ai) · 微信：binggandata2
 
 ## 核心能力
 
@@ -237,5 +237,7 @@ bggg-skill-taotie/
 <div align="center">
 
 MIT License © [binggandata](https://github.com/binggandata)
+
+[小红书](https://xhslink.com/m/4ndptyfq4vu) · [X / Twitter](https://x.com/bggg_ai) · 微信：binggandata2
 
 </div>
