@@ -2,6 +2,10 @@
 
 # 饕餮.skill
 
+> **This repository has moved.**  
+> 新版本已迁移到 [`binggandata/bggg-skills`](https://github.com/binggandata/bggg-skills/tree/main/bggg-skill-taotie)。  
+> This standalone repository is kept as a read-only historical entry point.
+
 > *"不是简单的代码合并工具，而是一个有学习能力的技能进化引擎。理解背后的'为什么'比复制'是什么'重要一百倍。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
